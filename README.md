@@ -53,7 +53,9 @@ This project is a **User Information App** built using **React**. It fetches use
    ```bash 
    npm install 
    npm start 
-   ``` 
+   ```
+---
+
 ### **Project Structure**
 
 1. **App.js:** Main application component with theme management and routing setup.
@@ -63,12 +65,16 @@ This project is a **User Information App** built using **React**. It fetches use
 5. **ThemeContext.js:** Context for managing theme state.
 6. **styledComponents.js:** Contains styled-component definitions
 
+---
+
 ### **Dependencies** 
 
 1. "react-icons": "^5.4.0",
 2. "react-loader-spinner": "^6.1.6",
 3. "react-router-dom": "^6.28.2",
 4. "styled-components": "^6.1.14"
+
+---
 
 ### **How to Use it** 
 
@@ -78,3 +84,5 @@ This project is a **User Information App** built using **React**. It fetches use
 - Navigate between pages using pagination controls.
 - Click on any user card to view detailed information.
 - Toggle between light and dark themes using the button on the navigation bar.
+
+  ---
